@@ -9,12 +9,13 @@
 <br>
 
 ## A Brief of the Prototype: 
-The Prototype is in 2 parts: 
-#### 1. UI Playground/Sandbox : Users to make twitches to the parameters and capture results of AI Driven/Manual Input unit test cases scenarios.
+The Prototype is disected into 3 parts
+#### 1.Landing UI: Users are prompted to provide links to YouTube videos or YouTube shorts to initiate the process. In doing so, users gain access to the concurrently generated transcription also.
 <img width="368" alt="End2End" src="https://github.com/Rajveermathur/gen-ai-rush-buildathon/assets/63655047/c38673d8-e276-42b2-b22f-dde9503ff966">
 
-#### 2. End 2 End Automation : The final solution, integrated with Github Actions where automated unit/functional test case scenarios powered by AI are evaluated through Validation Pipeline.
-<img width="368" alt="End2End" src="https://github.com/Rajveermathur/gen-ai-rush-buildathon/assets/63655047/c4af8a4e-dfc9-42d0-aa14-fa4aa28cf801">
+#### 2. The Analysis : Here the user gets the consolidated / processed knowledge of various metrics such as : Category , Confidence Score , List of Descriptives , Missing Context
+ 
+
 
 ## Tech Stack: 
 #### AWS Lambda Functions (Serverless Backend)
