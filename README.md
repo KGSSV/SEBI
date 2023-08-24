@@ -33,8 +33,8 @@ The Prototype is disected into 3 parts
 #### UI Playground/ Sandbox - User Story
 1. Open Link :
 2. Enter Youtube Link as an input
-   2.1  Youtube Link 1 : https://youtube.com/shorts/Ud9HJffKFds?si=Fga8DFzFSU9hWcAC
-   2.2  Youtube Link 2 : https://youtube.com/shorts/abgriPKGPHc?si=Afb0LymB98eJVoFz
+   2.1  Youtube Link 1 : https://youtube.com/shorts/Ud9HJffKFds?si=Fga8DFzFSU9hWcAC &nbsp;
+   2.2  Youtube Link 2 : https://youtube.com/shorts/abgriPKGPHc?si=Afb0LymB98eJVoFz &nbsp;
         Feel Free to enter your own youtube link.
         Note : The given link needs to claim / attest / speak about SEBI
 4. Once the link is entered click the button "Analyse"
