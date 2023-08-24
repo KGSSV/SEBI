@@ -5,7 +5,7 @@
 
 #### Team Leader Email - rajveer.mathur25@gmail.com
 
-<img width="348" alt="TuringTribe" src="https://github.com/KGSSV/SEBI/blob/main/latest%20ttt.png">
+<img width="348" alt="TuringTribe" src="https://github.com/KGSSV/SEBI/blob/main/assets/latest%20ttt.png">
 <br>
 
 ## A Brief of the Prototype: 
