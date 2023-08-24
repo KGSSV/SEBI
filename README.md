@@ -11,7 +11,7 @@
 ## A Brief of the Prototype: 
 The Prototype is disected into 3 parts
 #### 1.Landing UI: Users are prompted to provide links to YouTube videos or YouTube shorts to initiate the process. In doing so, users gain access to the concurrently generated transcription also.
-<img width="550" height="470" alt="End2End" src="https://github.com/KGSSV/SEBI/blob/main/MicrosoftTeams-image%20(11).png">
+<img width="550" height="430" alt="End2End" src="https://github.com/KGSSV/SEBI/blob/main/MicrosoftTeams-image%20(11).png">
 
 #### 2. The Analysis : Here the user gets the consolidated / processed knowledge of various metrics such as : Category , Confidence Score , List of Descriptives , Missing Context
  
