@@ -14,13 +14,20 @@ The Prototype is disected into 3 parts
 <img width="550" height="330" alt="End2End" src="https://github.com/KGSSV/SEBI/blob/main/MicrosoftTeams-image%20(11).png">
 
 #### 2. The Analysis : Here the user gets the consolidated / processed knowledge of various metrics such as : Category , Confidence Score , List of Descriptives , Missing Context
+<img width="550" height="330" alt="End2End" src="https://github.com/KGSSV/SEBI/blob/main/MicrosoftTeams-image%20(11).png">
+
+#### 3. Document Refrenced : Here the documents will be fetched to support claims.
+<img width="550" height="330" alt="End2End" src="https://github.com/KGSSV/SEBI/blob/main/MicrosoftTeams-image%20(11).png">
+
+#### 4. Q&A : Here the users can query against each and every SEBI Guideline document
+<img width="550" height="330" alt="End2End" src="https://github.com/KGSSV/SEBI/blob/main/MicrosoftTeams-image%20(11).png">
+
  
-
-
 ## Tech Stack: 
-#### AWS Lambda Functions (Serverless Backend)
-#### HTML, CSS & JS (UI Playground)
-#### Github Actions (End 2 End Automation)   
+
+#### HTML, CSS & Angular (UI Playground)
+#### GCP Cloud
+
 
 ## Step-by-Step Code Execution Instructions:
 #### UI Playground/ Sandbox
@@ -35,21 +42,6 @@ The Prototype is disected into 3 parts
 9. Results can be seen of the assessment in the test case validation pipeline.
 10. Create a .github/workflows workflow file where action pipeline can be defined
 11. Fetch these Yml files from this repo and paste them in the above created directory of the desired testing repository.
-
-
-#### End 2 End Automation
-1. Create a .github/workflows workflow file where the action pipeline can be defined.
-2. Fetch these Yml files from this repo and paste them in the above-created directory of the desired testing repository.
-3. Download MobaXterm.
-4. Go to Repository Settings and click on "runner" -> "action runner" -> create action runner and note down all the commands provided on the UI.
-5. Set up an SSH Connection using MobaXterm with the hosted EC2 Instance/Ubuntu VM.
-6. Run all 5 commands to host the action runner on the VM.
-7. Now the environment is set up, and you can make changes to any .java logic file, which will push test cases to the testing directory.
-8. Upon push, you will notice an action pipeline firing, which will validate the test cases.
-
-9. For funcitonal testcases make changes to .html file (ui component)
-10. this will fire a diffrent pipeline setuped which is reponsible for genrating functional test cases
-11. once the test cases are generated a pipeline will trigger which will connect with mobaXterm to validate the functional testcases in headmode
   
 ## What I Learned:
 During the development of the prototype, the most significant learning I had was the immense potential and power of AI-driven testing and automation in revolutionizing the software development process. As the prototype evolved and integrated various elements, I witnessed firsthand how the combination of AI-driven test case generation, seamless code management integration, and continuous monitoring could create a highly efficient and effective testing solution.
