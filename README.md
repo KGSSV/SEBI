@@ -5,7 +5,7 @@
 
 #### Team Leader Email - rajveer.mathur25@gmail.com
 
-<img width="348" alt="TuringTribe" src="https://github.com/Rajveermathur/gen-ai-rush-buildathon/assets/63655047/b631e9ab-fd4d-4cd0-889a-c71cbd01febe">
+<img width="348" alt="TuringTribe" src="https://github.com/KGSSV/SEBI/blob/main/latest%20ttt.png">
 <br>
 
 ## A Brief of the Prototype: 
