@@ -1,10 +1,11 @@
-# Gen-Ai-Rush-Buildathon
+# SEBI - Empowering Investors Hackathon
 
 ## README.md must consist of the following information:
 
 #### Team Name - The Turing Tribe
-#### Problem Statement - Create a solution to automate testing for software applications developed, ensuring enhancements in quality and reliability of software applications in real-time scenarios.
-#### Team Leader Email - umanglsinghal@gmail.com
+#### Problem Statement - With the rapid proliferation of digital platforms, there has been an alarming surge in deceptive investment claims propagated by self-proclaimed influencers. Such misinformation poses a significant threat, potentially causing unwary investors substantial financial losses. This challenge necessitates innovative solutions in the form of advanced models, cutting-edge tools, and user-centric products that meticulously scrutinize and ascertain the authenticity of influencers active on digital platforms. By harnessing the power of advanced technologies such as Generative AI and Machine Learning, these solutions strive not only to promptly identify and red-flag deceptive claims but also to erect a robust protective barrier around investors, thereby preempting potential financial hazards.
+
+#### Team Leader Email - rajveer.mathur25@gmail.com
 
 <img width="348" alt="TuringTribe" src="https://github.com/Rajveermathur/gen-ai-rush-buildathon/assets/63655047/b631e9ab-fd4d-4cd0-889a-c71cbd01febe">
 <br>
